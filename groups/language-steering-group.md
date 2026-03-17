@@ -1,6 +1,8 @@
 # Language Steering Group
 
-The Swift Language Steering Group guides the development of the Swift language and standard libraries through the [Swift evolution process](https://github.com/swiftlang/swift-evolution/blob/main/process.md).
+The Swift Language Steering Group guides the development of the Swift language and standard libraries.
+
+The language and core libraries evolve using the [Swift evolution process](https://github.com/swiftlang/swift-evolution/blob/main/process.md).
 
 ## Charter
 

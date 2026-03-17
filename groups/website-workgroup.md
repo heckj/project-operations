@@ -1,8 +1,9 @@
 # Swift.org Website Workgroup (SWWG)
 
-See [website overview](https://www.swift.org/website) for more information about the Swift.org website goals, content governance and contribution guidelines.
+The Swift website workgroup is a steering team that helps guide the evolution on the Swift.org website.
 
-The Swift website workgroup is a steering team that helps guide the evolution on the Swift.org website. The Swift website workgroup will:
+See [website overview](https://www.swift.org/website) for more information about the Swift.org website goals, content governance and contribution guidelines.
+The Swift website workgroup will:
 
 * Define a set of processes that govern the contributions to the Swift.org website.
 * Actively guide Swift.org website development and contributions.

@@ -7,17 +7,19 @@ Contributing doesn't just mean submitting pull requests -- there are many differ
 
 No matter how you want to get involved, we ask that you first learn what's expected of anyone who participates in the project by reading the [Code of Conduct](https://www.swift.org/code-of-conduct/).
 
-## Communication
+## Topics
+
+### Communication
 
 The Swift language is developed in the open, and all technical or administrative topics about the language or community processes should be directed to the Swift public forums. Public conversations are encouraged, and active developers of the Swift language should monitor the relevant forum categories.
 
-- Asking and answering questions in the [forums](./forums.md)
-- [Reporting bugs](./reporting-bugs.md)
-- [Triaging bugs](./triaging-bugs.md)
-- [Good first issues](./good-first-issues.md)
-- [Swift evolution process](./swift-evolution.md)
-- [Contributing code](./contributing-code.md)
-- [Contributor ladder](./contributor-ladder.md)
+- <doc:forums>
+- <doc:reporting-bugs>
+- <doc:triaging-bugs>
+- <doc:good-first-issues>
+- <doc:swift-evolution>
+- <doc:contributing-code>
+- <doc:contributor-ladder>
 
 Source code for Swift projects can be found on GitHub at [github.com/swiftlang](https://github.com/swiftlang).
 The Swift bug tracking system is maintained at [github.com/swiftlang/swift/issues](http://github.com/swiftlang/swift/issues).
@@ -26,5 +28,4 @@ The Swift bug tracking system is maintained at [github.com/swiftlang/swift/issue
 
 ### LLVM and Swift
 
-For more information about the clone of the LLVM repository, see
-[LLVM and Swift](./llvm-and-swift.md)
+- <doc:llvm-and-swift>

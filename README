@@ -25,3 +25,9 @@ To get started, please read the [Contributing Guide]. This repository is managed
 [Contributing Guide]: ./contributing/contributing-to-swift.md "Swift contributing guide"
 [Core Team]: https://forums.swift.org/new-message?groupname=core-team "Contact Swift Core team"
 [Contributor Experience]: https://forums.swift.org/g/contributor-experience-workgroup "Contact Swift contributor experience workgroup"
+
+### DocC Preview
+
+```bash
+xcrun docc preview --allow-arbitrary-catalog-directories .
+```

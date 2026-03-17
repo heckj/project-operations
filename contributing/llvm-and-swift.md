@@ -1,5 +1,7 @@
 # LLVM and Swift
 
+Understand the relationship between Swift and LLVM.
+
 Swift is built on the [LLVM Compiler Infrastructure](http://llvm.org/).
 Swift uses the LLVM Core for code generation and optimization (among other things), [Clang](http://clang.llvm.org/) for interoperability with C-based languages, and [LLDB](http://lldb.llvm.org/) for debugging and the REPL.
 
