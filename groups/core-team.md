@@ -16,22 +16,22 @@ The Core Team is responsible for approving the following:
 
 ## Current Members
 
-Ben Cohen  
-Holly Borla  
-Mishal Shah  
-Saleem Abdulrasool  
-Ted Kremenek  
+- Ben Cohen  
+- Holly Borla  
+- Mishal Shah  
+- Saleem Abdulrasool  
+- Ted Kremenek  
 
 ## Emeritus Members
 
 We are grateful for the service of the following emeritus Core Team members:
 
-Chris Lattner
-Dave Abrahams 
-Doug Gregor 
-Joe Groff 
-Joe Pamer
-John McCall 
-Marc Aupont
-Paris Pittman
-Tom Doron
+- Chris Lattner
+- Dave Abrahams 
+- Doug Gregor 
+- Joe Groff 
+- Joe Pamer
+- John McCall 
+- Marc Aupont
+- Paris Pittman
+- Tom Doron
