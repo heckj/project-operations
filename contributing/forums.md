@@ -13,7 +13,7 @@ Subscriptions and email preferences are configured via forum user settings.
 A core principle for the Swift project is that the community is an open and inclusive one.
 Engagement on the forums should follow these guidelines:
 
-- All discussion on the forums should adhere to Swift project's [Code of Conduct](/code-of-conduct).
+- All discussion on the forums should adhere to Swift project's [Code of Conduct](https://www.swift.org/code-of-conduct/).
 
 - Different users may have different preferences in choice of language for discussion and are encouraged to use their language of choice.
 

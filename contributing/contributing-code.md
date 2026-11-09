@@ -33,7 +33,7 @@ Some tips follow:
 * Make each change in the set either stand alone (for example, to fix a bug) or part of a planned series of changes that work toward the development goal. 
   Explaining these relationships to the community can be helpful.
 
-If you are interested in making a large change and feel unsure about its overall effect, please make sure to first discuss the change and reach a consensus through the [developer forums](/community/#swift-development).
+If you are interested in making a large change and feel unsure about its overall effect, please make sure to first discuss the change and reach a consensus through the [developer forums](./forums.md#development).
 Then ask about the best way to go about making the change.
 
 [email-devs]: mailto:swift-dev@swift.org
@@ -77,7 +77,7 @@ If someone sends you a change privately, encourage them to submit it to the appr
 ## Code Templates
 
 As mentioned in the [Community Overview][community], the license and copyright protections for Swift.org code are called out at the top of every source code file.
-On the rare occasion you contribute a change that includes a new source file, ensure that the header is filled out appropriately.
+On the rare occasion you contribute a change that includes a new source file, ensure that the header is filled out appropriately, replacing `YYYY` with the current year.
 
 For Swift source files the code header should look this:
 
@@ -86,7 +86,7 @@ For Swift source files the code header should look this:
 //
 // This source file is part of the Swift.org open source project
 //
-// Copyright (c) {{site.time | date: "%Y"}} Apple Inc. and the Swift project authors
+// Copyright (c) YYYY Apple Inc. and the Swift project authors
 // Licensed under Apache License v2.0 with Runtime Library Exception
 //
 // See https://swift.org/LICENSE.txt for license information
@@ -102,7 +102,7 @@ For C or C++ source or header files, the code header should look this:
 //
 // This source file is part of the Swift.org open source project
 //
-// Copyright (c) {{site.time | date: "%Y"}} Apple Inc. and the Swift project authors
+// Copyright (c) YYYY Apple Inc. and the Swift project authors
 // Licensed under Apache License v2.0 with Runtime Library Exception
 //
 // See https://swift.org/LICENSE.txt for license information

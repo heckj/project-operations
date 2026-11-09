@@ -23,8 +23,6 @@ The Swift language is developed in the open, and all technical or administrative
 Source code for Swift projects can be found on GitHub at [github.com/swiftlang](https://github.com/swiftlang).
 The Swift bug tracking system is maintained at [github.com/swiftlang/swift/issues](http://github.com/swiftlang/swift/issues).
 
-<!-- {% include_relative _website-and-blog-post-contributions.md %} -->
-
 ### LLVM and Swift
 
 For more information about the clone of the LLVM repository, see
