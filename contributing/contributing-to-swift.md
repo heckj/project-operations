@@ -17,6 +17,7 @@ The Swift language is developed in the open, and all technical or administrative
 - [Good first issues](./good-first-issues.md)
 - [Swift evolution process](./swift-evolution.md)
 - [Contributing code](./contributing-code.md)
+- [Adding external library dependencies](./external-library-dependencies.md)
 - [Contributor ladder](./contributor-ladder.md)
 - [Development resources](./development-resources.md)
 
