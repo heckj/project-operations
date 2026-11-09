@@ -1,8 +1,10 @@
 # Use of AI Tools in Contributions
 
-The Swift project welcomes the use of large language models and LLM-based coding assistants when used in line with the contributing guidelines. Swift maintainers expect you to review, validate, and refine (and/or combine with human-written code) your contributions so the final work reflects your human creativity and understanding.
+**Note: This document is a work-in-progress and under active development by the Core Team.**
 
-The [contributing guidelines](/contributing) contain criteria for ensuring that a contribution meets the high-quality standards of the Swift project, regardless of how a contribution was developed. They also contain development best practices for ensuring that a contribution is easy for maintainers to review. Ease of review is especially critical with AI-assisted contributions, because maintainers have a higher volume of changes to review. Please carefully read the contribution guidelines and ensure that you follow them for your AI-assisted changes, including keeping PRs small and focused without unrelated changes, separating refactoring from functional changes, limiting the number of PRs you have open at once, etc. Maintainers have a right to request changes on PRs that do not follow these guidelines.
+The Swift project welcomes the use of large language models and LLM-based coding assistants when used in line with the contributing guidelines. Swift maintainers expect you to review, validate, and, as needed, refine and/or combine with human-written code so the final contribution reflects your human creativity, understanding, and control.
+
+The [contributing guidelines](/contributing) contain criteria for ensuring that a contribution meets the high-quality standards of the Swift project, regardless of how a contribution was developed. They also contain development best practices for ensuring that a contribution is easy for maintainers to review. As AI tools lower the barrier to contributing, maintainers may see a higher volume of changes to review, which makes ease of review an important part of every contribution. Please carefully read the contribution guidelines and ensure that you follow them for your AI-assisted changes, including keeping PRs small and focused without unrelated changes, separating refactoring from functional changes, limiting the number of PRs you have open at once, etc. Maintainers may request changes on PRs that do not follow these guidelines.
 
 The Swift project is governed by the [Code of Conduct](https://www.swift.org/code-of-conduct/). Contributors are expected to engage respectfully with all contributions regardless of how they were developed. If you witness or experience conduct that falls short of this standard, please contact the [Swift Core Team](/groups/core-team.md).
 
@@ -21,7 +23,7 @@ Examples:
 
 ## Writing and Voice
 
-You are expected to use your own ideas, judgment, and voice when producing written materials associated with a contribution, including (but not limited to) forum and GitHub comments, proposal documents, documentation, commit messages, and PR descriptions.
+You are expected to use your own ideas, judgment, expression, and voice when producing written materials associated with a contribution, including (but not limited to) forum and GitHub comments, proposal documents, documentation, commit messages, and PR descriptions.
 
 Using AI tools to help write text is acceptable, such as for editorial refinements or translation help, and you are expected to review, adapt, and personalize the text. Before posting AI-assisted text, ask yourself: does this accurately reflect my own understanding and reasoning? If a reviewer asked you to elaborate on a point in your PR description, could you do so in your own words? If not, the text needs more of your own thinking before it's ready.
 
@@ -35,15 +37,15 @@ Examples:
   * Generating the reasoning or justification for a design decision
   * Producing your position in a technical debate
   * Writing a proposal's motivation or alternatives sections from scratch
-  * Responding to reviewer feedback with AI-generated replies
+  * Responding to reviewer feedback with AI-generated replies without personalizing the text
 
-> **Rationale**: We're a community of humans, and we value hearing your ideas, questions, insights, and reasoning in your own words. When you write your own prose, you are forced to clarify your own thinking, surface gaps in your understanding, and take genuine ownership of what you're proposing. A PR description or forum reply that was generated rather than written tells reviewers and collaborators less about your reasoning, and makes it harder for the community to engage meaningfully with your contribution.
+> **Rationale**: We're a community of humans, and we value hearing your ideas, questions, insights, and reasoning in your own words. Writing in your own voice helps you clarify your thinking, notice gaps in your understanding, and take ownership of what you're proposing. It also lets others see how you're thinking about the topic directly, which better facilitates meaningful technical discussions, and helps build connections between contributors.
 
 ## Learning-oriented contributions
 
 Some contributions are made primarily as a learning experience, such as working on GitHub issues labeled with `Good First Issue`, or participating in mentorship programs like the Swift Mentorship Program. These contributions are especially valuable not just for their outcomes, but for the growth and understanding they foster.
 
-Using AI tools to support your learning can be helpful, such as for exploring unfamiliar areas of a new codebase. However, you are expected to use these tools in a way that supports — rather than replaces — your own learning and problem-solving. Over-reliance on AI risks undermining the very growth opportunities these programs are designed to provide.
+Using AI tools to support your learning can be helpful, such as for exploring unfamiliar areas of a new codebase. However, you are expected to use these tools in a way that supports — rather than replaces — your own learning and problem-solving. These programs are designed to provide growth opportunities, and you'll get the most from them by engaging deeply with the learning process.
 
 Examples:
 * You should take the time to understand the code you are modifying, even if AI tools can quickly suggest a working solution. This includes exploring how your changes fit into the broader system, even if this slows down your pace of writing more code.
@@ -52,4 +54,4 @@ Examples:
 * You should expect to iterate on your changes based on feedback, and use that feedback as part of the learning process.
 * You should not _only_ ask questions to a coding assistant or LLM chat -- please ask questions to your mentor and other contributors in the Swift community!
 
-> **Rationale**: Mentorship programs are designed to help you 1. build a foundational understanding of a new technical area, and 2. get to know other contributors in the Swift community. While AI tools can accelerate progress, over-reliance on them can bypass important learning opportunities. Taking the time to engage deeply with the code, write and refine your own implementation, and engage with other contributors will help you get the most value out of these experiences for both your technical understanding and getting to know the community.
+> **Rationale**: Mentorship programs are designed to help you 1. build a foundational understanding of a new technical area, and 2. get to know other contributors in the Swift community. Taking the time to engage deeply with the code, write and refine your own implementation, and engage with other contributors will help you get the most value out of these experiences for both your technical understanding and getting to know the community.
