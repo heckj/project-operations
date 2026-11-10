@@ -19,6 +19,7 @@ The Swift language is developed in the open, and all technical or administrative
 - [Contributing code](./contributing-code.md)
 - [Adding external library dependencies](./external-library-dependencies.md)
 - [Contributor ladder](./contributor-ladder.md)
+- [Use of AI tools in contributions](./ai-tools.md)
 - [Development resources](./development-resources.md)
 
 Source code for Swift projects can be found on GitHub at [github.com/swiftlang](https://github.com/swiftlang).
