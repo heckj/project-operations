@@ -11,8 +11,9 @@ projects.
 
 ## Current List of Projects
 
-The current list of projects in the suite is maintained as data on swift.org and
-is available at [swift.org/documentation/source-compatibility/](https://www.swift.org/documentation/source-compatibility/#current-list-of-projects).
+The current list of projects in the suite is the set of JSON files in the
+[projects directory](https://github.com/swiftlang/swift-source-compat-suite/tree/main/projects)
+of the source compatibility suite repository.
 
 ## Adding Projects
 
@@ -55,11 +56,12 @@ following steps:
    the current Swift GM version.
 2. Create a pull request against the [source compatibility suite
    repository](https://github.com/swiftlang/swift-source-compat-suite),
-   modifying **projects.json** to include a reference to the project being added
-   to the test suite.
+   adding a new JSON file to the **projects/** directory to include a reference
+   to the project being added to the test suite.
 
-The project index is a JSON file that contains a list of repositories containing
-Xcode and/or Swift Package Manager target actions.
+The project index is a directory of per-project JSON files (or alternatively a
+single JSON file containing a list of repositories) with Xcode and/or Swift
+Package Manager target actions.
 
 To add a new Swift Package Manager project, use the following template:
 
